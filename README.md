@@ -1,4 +1,4 @@
 # Calculator+
 Includes multiple calculators
 
-Pythagora, ALV ja Alennus-laskuri
+Pythagora, ALV, Discount, Interest
